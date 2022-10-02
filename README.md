@@ -1,4 +1,3 @@
 # testy
 
-google trex game
-play and enjoy
+google trex game offline one
