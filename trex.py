@@ -3,8 +3,8 @@ import sys
 import pygame
 import random
 from pygame import *
-
-pygame.mixer.pre_init(44100, -16, 2, 2048)
+#pygame is used to create gui games through python
+pygame.mixer.pre_init(44100, -16, 3, 2048)
 pygame.init()
 
 scr_size = (width,height) = (600,150)
