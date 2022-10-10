@@ -1,4 +1,4 @@
 # testy
 
-google trex game offline one
+google T-Rex game offline one
 it's good you can try it.
